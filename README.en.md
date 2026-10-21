@@ -4,10 +4,10 @@
 
 <br>
 
-**A web app for creating toothpick art templates.**
+**A web app for creating toothpick art and pixel art templates.**
 
 - For artwork made by inserting painted toothpicks into rigid foam, such as Styrofoam
-- Photos converted into color-numbered templates, material lists, and printable PDFs
+- Photos converted into pixel art, color-numbered templates, material lists, and printable PDFs
 
 <br>
 
